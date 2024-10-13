@@ -1,0 +1,1 @@
+This PHP script checks if a given number is an an even number or not. An even number is a number that when divided two it leaves a remainder of zero. 
